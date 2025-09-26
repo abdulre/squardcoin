@@ -20,7 +20,7 @@ jobs:
 
       - name: Check merge --ff-only
         run: |
-          git fetch origin main:main
+          git fetch origin main
           git checkout main
           if [ "${{ github.event_name }}" == "pull_request" ]; then
             git merge --ff-only ${{ github.event.pull_request.head.sha }}
