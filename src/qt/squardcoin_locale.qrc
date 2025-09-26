@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/squardcoin_ar.qm</file>
+        <file alias="bg">locale/squardcoin_bg.qm</file>
+        <file alias="de">locale/squardcoin_de.qm</file>
+        <file alias="en">locale/squardcoin_en.qm</file>
+        <file alias="es">locale/squardcoin_es.qm</file>
+        <file alias="fi">locale/squardcoin_fi.qm</file>
+        <file alias="fr">locale/squardcoin_fr.qm</file>
+        <file alias="it">locale/squardcoin_it.qm</file>
+        <file alias="ja">locale/squardcoin_ja.qm</file>
+        <file alias="ko">locale/squardcoin_ko.qm</file>
+        <file alias="nl">locale/squardcoin_nl.qm</file>
+        <file alias="pl">locale/squardcoin_pl.qm</file>
+        <file alias="pt">locale/squardcoin_pt.qm</file>
+        <file alias="ro">locale/squardcoin_ro.qm</file>
+        <file alias="ru">locale/squardcoin_ru.qm</file>
+        <file alias="sk">locale/squardcoin_sk.qm</file>
+        <file alias="th">locale/squardcoin_th.qm</file>
+        <file alias="tr">locale/squardcoin_tr.qm</file>
+        <file alias="vi">locale/squardcoin_vi.qm</file>
+        <file alias="zh_CN">locale/squardcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/squardcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

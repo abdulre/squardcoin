@@ -1,0 +1,6 @@
+usr/local/bin/squardcoin-qt usr/bin
+share/pixmaps/squardcoin32.xpm usr/share/pixmaps
+share/pixmaps/squardcoin16.xpm usr/share/pixmaps
+share/pixmaps/squardcoin128.png usr/share/pixmaps
+debian/squardcoin-qt.desktop usr/share/applications
+debian/squardcoin-qt.protocol usr/share/kde4/services/

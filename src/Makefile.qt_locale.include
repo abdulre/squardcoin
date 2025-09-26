@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/squardcoin_ar.ts \
+  qt/locale/squardcoin_bg.ts \
+  qt/locale/squardcoin_de.ts \
+  qt/locale/squardcoin_en.ts \
+  qt/locale/squardcoin_es.ts \
+  qt/locale/squardcoin_fi.ts \
+  qt/locale/squardcoin_fr.ts \
+  qt/locale/squardcoin_it.ts \
+  qt/locale/squardcoin_ja.ts \
+  qt/locale/squardcoin_ko.ts \
+  qt/locale/squardcoin_nl.ts \
+  qt/locale/squardcoin_pl.ts \
+  qt/locale/squardcoin_pt.ts \
+  qt/locale/squardcoin_ro.ts \
+  qt/locale/squardcoin_ru.ts \
+  qt/locale/squardcoin_sk.ts \
+  qt/locale/squardcoin_th.ts \
+  qt/locale/squardcoin_tr.ts \
+  qt/locale/squardcoin_vi.ts \
+  qt/locale/squardcoin_zh_CN.ts \
+  qt/locale/squardcoin_zh_TW.ts
